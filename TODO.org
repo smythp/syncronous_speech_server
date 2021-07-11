@@ -1,0 +1,2 @@
+* TODO Combine repeated items on queue
+* TODO command line commands to add to path
